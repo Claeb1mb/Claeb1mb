@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello World! 👋👨‍💻
 
-<!--
-**Claeb1mb/Claeb1mb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Caleb! I'm a software engineer lets collaborate :rocket:
+- I am passionate about treating 🌎earth and all living things with respect.  
+- In my free time I like to 🏃run, 📚read and 🧠learn new things. 
+- Reach Out:📫Caleb1mb23@gmail.com or <a href="https://www.linkedin.com/in/calebsmith01/">LinkedIn</a>
 
-Here are some ideas to get you started:
+Tech & Tools 🛠️
+---
+![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-VsCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=6495ed)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffe300)
+![](https://img.shields.io/badge/-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=00bfff)
+![](https://img.shields.io/badge/-Node-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=006400)
+![](https://img.shields.io/badge/-PostgreSql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=6495ed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GitHub Stats ⚙️
+--- 
+ [![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claeb1mb&count_private=true&hide_title=true&include_all_commits&hide=stars,&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+---
+
+⭐ from [Claeb1mb](https://github.com/Claeb1mb)
+
+
