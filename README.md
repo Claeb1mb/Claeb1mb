@@ -3,7 +3,7 @@
 Hi, I'm Caleb! I'm a software engineer lets collaborate :rocket:
 - I am passionate about treating 🌎earth and all living things with respect.  
 - In my free time I like to 🏃run, 📚read and 🧠learn new things. 
-- Let's chat:📫Caleb1mb23@gmail.com or <a href="https://www.linkedin.com/in/calebsmith01/">LinkedIn</a>
+- Let's chat:📫Caleb1mb24@gmail.com or <a href="https://www.linkedin.com/in/calebsmith01/">LinkedIn</a>
 
 Tech & Tools 🛠️
 ---
