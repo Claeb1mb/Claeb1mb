@@ -1,4 +1,4 @@
-# Hello World! 👋👨‍💻
+# Hello World!
 
 Hi, I'm Caleb! Lets collaborate :rocket:
 - Treat 🌎earth and all living on it with respect.  
