@@ -7,8 +7,6 @@ Hi, I'm Caleb! Lets collaborate :rocket:
 
 Tech & Tools 🛠️
 ---
-![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-VsCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=6495ed)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffe300)
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=00bfff)
 ![](https://img.shields.io/badge/-Node-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=006400)
