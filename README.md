@@ -1,15 +1,8 @@
 # Hello World!
 
-Hi, I'm Caleb! Lets collaborate :rocket: 
+Lets collaborate :rocket: 
 - 🏃run, 📚read and 🧠learn new things. 
 - Let's chat:📫Caleb1mb24@gmail.com or <a href="https://www.linkedin.com/in/calebsmith01/">LinkedIn</a>
-
-Tech & Tools 🛠️
----
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=ffe300)
-![](https://img.shields.io/badge/-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=00bfff)
-![](https://img.shields.io/badge/-Node-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=006400)
-![](https://img.shields.io/badge/-PostgreSql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=6495ed)
 
 GitHub Stats ⚙️
 --- 
