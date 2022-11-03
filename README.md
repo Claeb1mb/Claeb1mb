@@ -1,7 +1,6 @@
 # Hello World!
 
-Hi, I'm Caleb! Lets collaborate :rocket:
-- Treat 🌎earth and all living on it with respect.  
+Hi, I'm Caleb! Lets collaborate :rocket: 
 - 🏃run, 📚read and 🧠learn new things. 
 - Let's chat:📫Caleb1mb24@gmail.com or <a href="https://www.linkedin.com/in/calebsmith01/">LinkedIn</a>
 
